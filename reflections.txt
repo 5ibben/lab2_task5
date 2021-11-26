@@ -1,0 +1,10 @@
+
+    What did you learn? What did you know already?
+	nothing
+    What was difficult in the lab? How did you overcome it?
+	nothing
+    How can the lab be improved?
+	remove
+
+Additionally, give an estimate of how many hours you spent on this lab.
+	2
